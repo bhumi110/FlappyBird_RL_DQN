@@ -1,2 +1,2 @@
-# FlappyBird_RL_DQN
+# FlappyBird Problem
 Developed a Deep Q-Network (DQN) based Reinforcement Learning agent to play Flappy Bird autonomously. Implemented experience replay, epsilon-greedy exploration, target network synchronization, and neural network-based Q-value approximation using PyTorch. Trained the agent through trial-and-error interactions with the game environment, enabling it to learn optimal flap actions and improve gameplay performance over time.
